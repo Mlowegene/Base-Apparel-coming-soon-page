@@ -133,4 +133,11 @@ color {
     display: none;
 }
 
+form.error .error-icon {
+    display: block;
+}
+
+form.error .error-text{
+    display: block;
+}
 
